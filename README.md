@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo: Ángel Enrique Pérez Pérez</h1>
 <h3 align="center">Apasionado por la tecnología y por el desarrollo web</h3>
 
-- 💬 Ask me about **Html,Css JavaScript**
+- 💬 Ask me about **Html, Css y JavaScript**
 
 - 📫 How to reach me **angelenriqueperez.p@gmail.com**
 
